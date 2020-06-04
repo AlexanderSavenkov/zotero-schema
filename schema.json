@@ -8409,9 +8409,9 @@
 		},
 		"pl-PL": {
 			"itemTypes": {
-				"artwork": "Dzieło sztuki",
-				"attachment": "Załącznik",
-				"audioRecording": "Nagranie audio",
+				"artwork": "Dzieło sztukich",
+				"attachment": "Załącznik123",
+				"audioRecording": "Nagranie audio123",
 				"bill": "Projekt ustawy",
 				"blogPost": "Wpis w blogu",
 				"book": "Książka",
